@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">S.E.E.S</string>
+    <string name="map_key">AIzaSyCeAYEX3sq6edXA40ZPuBbbmQRJv_xomD0</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="hello_there">Hello there</string>
+    <string name="you_havn_t_account_yet">you havn\'t account yet ?</string>
+    <string name="register_now">Register now</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

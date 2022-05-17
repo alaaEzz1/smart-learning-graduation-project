@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308148390149",
+    "project_id": "smart-learnning",
+    "storage_bucket": "smart-learnning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308148390149:android:85c62a2fee7821f31a4f6c",
+        "android_client_info": {
+          "package_name": "com.elmohandes.smart_learnning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308148390149-j0atckdofmrrmt0fl1k790rtqa19hsor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgy5zHU-1i01GDkN8ks9hIYZNAvzmh65I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308148390149-j0atckdofmrrmt0fl1k790rtqa19hsor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#142DB7</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white_color">#ffffff</color>
+    <color name="main_records_bg_color">#03A9F4</color>
+    <color name="red_color">#C23F3F</color>
+    <color name="Attendens_screen_bg">#5A6940</color>
+    <color name="bus_screen_bg">#D7D3D3</color>
+</resources>

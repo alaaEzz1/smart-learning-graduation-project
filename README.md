@@ -30,5 +30,17 @@ smart learning is my graduation project which contains splash ,signup ,login ,at
 ### You should connect the device from out of Application first
 ###
 ![buluetooth-devices](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/paired.jpeg)
+###
+### After choosing the correct device HC-05 that checking connection if success or failed or device busy.
+###
+![connecting](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/loading%20connection.jpeg)
+###
+### After selecting the correct device press on it to make connection.
+### You will see a short message like connected.
+### After the success of connection press send my code button as a final step to take your attendance.
+![send-code](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/code%20sended.jpeg)
+
+
+
 
 

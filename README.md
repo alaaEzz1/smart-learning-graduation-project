@@ -39,8 +39,15 @@ smart learning is my graduation project which contains splash ,signup ,login ,at
 ### You will see a short message like connected.
 ### After the success of connection press send my code button as a final step to take your attendance.
 ![send-code](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/code%20sended.jpeg)
-
-
+# Bus tracker screen
+## this system can use it in a school bus or college bus or any bus system you want
+### first allow permission of locaton
+###
+![location-permission](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Location%20permission.jpeg)
+###
+## After accepting permission we get the current location of the user in a red Marker and make a small circle.
+### By receiving the latitude and longitude from location machine in the bus via firebase we can track the bus location.
+![map](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/image.png)
 
 
 

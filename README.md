@@ -1,53 +1,89 @@
 # Smart Educational Environment System (SEES)
-## smart-learning is my graduation-project-
-smart learning is my graduation project which contains splash ,signup ,login ,attendance and bus tracker screens
-## splash screen
 
-### contans the logo of project or application
+SEES is a mobile app designed to enhance e-learning experiences in colleges, schools, and other educational institutions. It provides a comprehensive platform for students, teachers, and administrators to streamline various educational processes. With features like splash screen, signup, login, attendance, and bus tracker, SEES aims to create a smarter educational environment.
 
-![this is splash screen](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/app/src/main/res/drawable/sees_logo.jpeg)
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-## signup screen
-###
-### the screnn which user can create new Account for example the school or college need full name ,email ,code ,mobile phone and password
-###
-![create new account](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Register.jpeg)
-## login screen
-### after create login scree now you can login to your account and now you are a student in this college or school
-![login to your account](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/login%20form.jpeg)
-###
-## after login you will enter to attendance screen and now you can take attendance
-![attendance screen](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Attendance.jpeg)
-###
-## When we pressed take attendance button we must use fingerprint button to unlock as a security way of recognizing if its correct student to complete taking the Attendance.
-###
-![biometric](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/biometric.jpeg)
-###
-## Before using Bluetooth device you must give the Application the permission of using it by pressing Allow button.
-###
-![bluetooth-permission](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Bluetooth%20Permission.jpeg)
-### Select from pairing devices the correct device and make sure of the name and the Address.
-### You should connect the device from out of Application first
-###
-![buluetooth-devices](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/paired.jpeg)
-###
-### After choosing the correct device HC-05 that checking connection if success or failed or device busy.
-###
-![connecting](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/loading%20connection.jpeg)
-###
-### After selecting the correct device press on it to make connection.
-### You will see a short message like connected.
-### After the success of connection press send my code button as a final step to take your attendance.
-![send-code](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/code%20sended.jpeg)
-# Bus tracker screen
-## this system can use it in a school bus or college bus or any bus system you want
-### first allow permission of locaton
-###
-![location-permission](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Location%20permission.jpeg)
-###
-## After accepting permission we get the current location of the user in a red Marker and make a small circle.
-### By receiving the latitude and longitude from location machine in the bus via firebase we can track the bus location.
-![map](https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/image.png)
+## Features
+
+- Splash screen: Engaging introduction screen to welcome users and set the tone for the app.
+- Signup and login: Secure user authentication and registration process to access app features.
+- Attendance management: Students can connect to the attendance machine using Bluetooth and take attendance directly from the app. Once the attendance code is received and sent, it marks the student as present.
+- Bus tracker: Utilizing location services, the app allows students to track their bus and view their current location in relation to the bus. The distance between them is also displayed for convenience.
+
+## Screenshots
+
+Include relevant screenshots or images of My mobile app to provide a visual representation of its features and interface.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/app/src/main/res/drawable/sees_logo.jpeg" alt="Screenshot 1" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Register.jpeg" alt="Screenshot 2" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/login%20form.jpeg" alt="Screenshot 2" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Attendance.jpeg" alt="Screenshot 3" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/biometric.jpeg" alt="Screenshot 4" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Bluetooth%20Permission.jpeg" alt="Screenshot 2" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/paired.jpeg" alt="Screenshot 3" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/loading%20connection.jpeg" alt="Screenshot 4" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/code%20sended.jpeg" alt="Screenshot 2" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/Location%20permission.jpeg" alt="Screenshot 3" width="200px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/alaaEzz1/smart-learning-graduation-project-/blob/master/screenshots/image.png" alt="Screenshot 4" width="200px">
+    </td>
+  </tr>
+</table>
 
 
 
+## Installation
+
+1. I will add it soon
+
+## Usage
+
+1. Launch the SEES app on your mobile device.
+2. On the splash screen, the app will provide a visually appealing introduction to the platform.
+3. Sign up or log in using your credentials to access the full features of the app.
+4. In the attendance screen, ensure your Bluetooth is enabled and connect to the attendance machine. Take attendance by following the on-screen instructions and press "Send My Code" to mark your attendance.
+5. Utilize the bus tracker feature to track your bus's location in real-time. The app will display your current location and the distance between you and the bus for a seamless commute experience.
+
+## Contributing
+
+Contributions to SEES are welcome! If you have any suggestions, bug reports, or would like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature/fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push the changes to your forked repository.
+5. Submit a pull request, detailing the changes you have made.

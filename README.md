@@ -1,7 +1,7 @@
 # Smart Educational Environment System (SEES)
 ## smart-learning is my graduation-project-
 smart learning is my graduation project which contains splash ,signup ,login ,attendance and bus tracker screens
-## splah screen
+## splash screen
 
 ### contans the logo of project or application
 
